@@ -1,6 +1,5 @@
 #Git lessonDay 2
 
-<ol>
    HTML (HyperText Markup Language) အကြောင်း မိတ်ဆက်
 HTML ဆိုတာ ဘာလဲ?
 HTML ၏ အရှည်ကောက်မှာ HyperText Markup Language ဖြစ်ပါသည်။ ၎င်းသည် ဝဘ်ဆိုက် (Website) များနှင့် ဝဘ်စာမျက်နှာ (Web Page) များကို တည်ဆောက်ရာတွင် အသုံးပြုသည့် အခြေခံအကျဆုံး ဘာသာစကားတစ်ခု ဖြစ်ပါသည်။ HTML သည် Programming Language တစ်ခု မဟုတ်ဘဲ ဝဘ်စာမျက်နှာပေါ်ရှိ စာသားများ၊ ပုံများ၊ ဗီဒီယိုများနှင့် လင့်ခ် (Link) များကို စနစ်တကျ နေရာချထားပေးသည့် Markup Language တစ်ခု ဖြစ်ပါသည်။
@@ -35,4 +34,3 @@ GitHub ပေါ်တင်ရန် အကြံပြုချက်
 ဤစာသားကို GitHub Repository ထဲရှိ README.md ဖိုင်ထဲတွင် ထည့်သွင်းပြီး တင်နိုင်ပါသည်။
 
 အကယ်၍ Assignment အတွက် Document ဖိုင်အနေဖြင့် တင်ရမည်ဆိုပါက Microsoft Word (.docx) သို့မဟုတ် PDF ဖိုင်အဖြစ် ပြောင်းလဲပြီး Repository ထဲသို့ Upload တင်နိုင်ပါသည်။
-</ol>
